@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "completed": true,
+      "value": "Read a book",
+      "id": 4
+    },
+    {
+      "completed": true,
+      "value": "custom task",
+      "id": 7
+    },
+    {
+      "completed": true,
+      "value": "cook oatsmeal",
+      "id": 9
+    },
+    {
+      "value": "gym",
+      "completed": false,
+      "id": 10
+    },
+    {
+      "value": "new task",
+      "completed": false,
+      "id": 11
+    },
+    {
+      "value": "go to market",
+      "completed": false,
+      "id": 12
+    }
+  ]
+}
